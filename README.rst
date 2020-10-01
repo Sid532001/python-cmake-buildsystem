@@ -59,7 +59,7 @@ How to use this buildsystem:
   http://www.python.org/ftp/python/
 
 
-CMake Options
+CMake Options:
 -------------
 
 You can pass options to CMake to control the way Python is built.  You only
@@ -262,7 +262,7 @@ Materials in this repository are distributed under the following licenses:
   See `LICENSE_Apache_20 <LICENSE_Apache_20>`_ file for details.
 
 
-FAQ
+FAQs?
 ---
 
 Why Apache 2.0 License?
